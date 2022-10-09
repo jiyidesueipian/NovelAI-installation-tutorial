@@ -6,6 +6,8 @@ English | [繁體中文](README_TCH.md)
 using colab to install novelai
 [reference](https://github.com/JingShing/novelai-colab-ver)
 
+---
+
 ### For windows
 
 You need to install [python](https://www.python.org/downloads/release/python-3107/) and [git](https://git-scm.com/download/win) first.
