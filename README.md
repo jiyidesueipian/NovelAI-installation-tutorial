@@ -8,6 +8,11 @@ using [colab](https://github.com/JingShing/novelai-colab-ver) to install novelai
 
 ## NovelAI installation tutorial
 ### For windows
+You can see tutorial on youtube by clicking img below
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8iz598BXTlg" target="_blank">
+ <img src="http://img.youtube.com/vi/8iz598BXTlg/mqdefault.jpg" alt="Watch the video"/>
+</a>
 
 You need to install [python](https://www.python.org/downloads/release/python-3107/) and [git](https://git-scm.com/download/win) first.
 
