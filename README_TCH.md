@@ -10,6 +10,12 @@
 
 ### windows版
 
+你可以透過點擊下方的圖片，觀看筆者在 youtube 的教學影片。
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8iz598BXTlg" target="_blank">
+ <img src="http://img.youtube.com/vi/8iz598BXTlg/mqdefault.jpg" alt="Watch the video"/>
+</a>
+
 你需要先安裝 [python](https://www.python.org/downloads/release/python-3107/) 和 [git](https://git-scm.com/download/win)
 
 安裝完後，開啟 cmd.
