@@ -1,6 +1,11 @@
 English | [繁體中文](README_TCH.md)
 # NovelAI-installation-tutorial
 
+# [Prompt recomend](spell/spell_word_suggest.md)
+Click title to see detail.
+# [Negative prompt recomend](spell/negative_prompt.md)
+Click title to see detail.
+
 ## recommend([colab](https://github.com/JingShing/novelai-colab-ver) ver)
 using [colab](https://github.com/JingShing/novelai-colab-ver) to install novelai
 
