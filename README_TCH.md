@@ -1,5 +1,11 @@
 [English](README.md) | 繁體中文
 # NovelAI-installation-tutorial
+
+## 推薦([colab](https://github.com/JingShing/novelai-colab-ver) 版本)
+使用 [colab](https://github.com/JingShing/novelai-colab-ver) 安裝 novelai
+
+---
+
 ## NovelAI 安裝教學
 
 ### windows版
