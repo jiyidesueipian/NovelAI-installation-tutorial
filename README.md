@@ -1,4 +1,4 @@
-English|[繁體中文](README_TCH.md)
+English | [繁體中文](README_TCH.md)
 # NovelAI-installation-tutorial
 ## NovelAI installation tutorial
 
