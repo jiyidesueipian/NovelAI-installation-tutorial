@@ -1,12 +1,12 @@
 English | [繁體中文](README_TCH.md)
 # NovelAI-installation-tutorial
-## NovelAI installation tutorial
 
 ## recommend([colab](https://github.com/JingShing/novelai-colab-ver) ver)
 using [colab](https://github.com/JingShing/novelai-colab-ver) to install novelai
 
 ---
 
+## NovelAI installation tutorial
 ### For windows
 
 You need to install [python](https://www.python.org/downloads/release/python-3107/) and [git](https://git-scm.com/download/win) first.
