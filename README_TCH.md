@@ -1,5 +1,9 @@
 [English](README.md) | 繁體中文
 # NovelAI-installation-tutorial
+# [關鍵詞推薦](spell/spell_word_suggest.md)
+點擊標題查看。
+# [負關鍵詞推薦](spell/negative_prompt.md)
+點擊標題查看。
 
 ## 推薦([colab](https://github.com/JingShing/novelai-colab-ver) 版本)
 使用 [colab](https://github.com/JingShing/novelai-colab-ver) 安裝 novelai
