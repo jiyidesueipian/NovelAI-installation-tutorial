@@ -2,7 +2,7 @@ English | [繁體中文](README_TCH.md)
 # NovelAI-installation-tutorial
 ## NovelAI installation tutorial
 
-### recommend
+## recommend(colab ver)
 using colab to install novelai
 [reference](https://github.com/JingShing/novelai-colab-ver)
 
