@@ -1,5 +1,6 @@
 [English](README.md) | 繁體中文
 # NovelAI-installation-tutorial
+你可以在 [這](https://drive.google.com/file/d/1XW1O1RGPhZ1xqX9uR4QKWz3KrJmm5mwL/view?usp=sharing) 下載模型
 # [關鍵詞推薦](spell/spell_word_suggest.md)
 點擊標題查看。
 # [負關鍵詞推薦](spell/negative_prompt.md)
